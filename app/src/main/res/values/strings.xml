@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pr13</string>
+
+    <string name="katet1">введите первый катет:</string>
+    <string name="katet2">введите второй катет</string>
+    <string name="gipoten">гипотенуза:</string>
+    <string name="perimetr">периметр:</string>
+    <string name="ploshad">площадь:</string>
+    <string name="schet">Вычислить</string>
+</resources>
